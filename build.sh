@@ -21,4 +21,6 @@ java Hello
 
 go version
 
+uname -a
+
 gcloud auth print-access-token
