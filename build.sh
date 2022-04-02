@@ -18,3 +18,7 @@ else
   javac Hello.java
 fi
 java Hello
+
+go version
+
+gcloud auth print-access-token
